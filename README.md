@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&theme=shadow_green&text=Charlie&theme=shadow_red)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&theme=shadow_green&text=Hello%20Everyone!👋&height=180&animation=twinkling&fontColor=ffffff)
 
 
 - 👋 Hi, I’m @thenameisCharlie

@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&theme=shadow_green&text=Hello%20Everyone!👋&height=180&animation=twinkling&fontColor=ffffff)
 
+<p align="center"
+<a href="https://www.linkedin.com/in/carlosvillatoro1995/">
+  <img height="80" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"/>
+</a>
+</p>
 
 - 👋 Hi, I’m @thenameisCharlie
 - 👀 I’m interested in ...

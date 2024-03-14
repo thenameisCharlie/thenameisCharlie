@@ -6,6 +6,9 @@
 </a>
 </p>
 
+<h1>About Me</h1>
+___
+
 - 👋 Hi, I’m @thenameisCharlie
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

@@ -10,12 +10,11 @@ ___
 
 <h2>About Me 😁</h2>
 
-- 👋 Hi, I’m @thenameisCharlie
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Carlos Villatoro
+- 👀 I’m interested in progamming 💻, music 🎹, cooking 👨‍🍳, 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ___
 <h3>Some Tools I Have Used and Learned</h3>
@@ -30,7 +29,9 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Figma" width="45" height="45"/>&nbsp;&nbsp;&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supbase" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 

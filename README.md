@@ -11,9 +11,9 @@ ___
 <h2>About Me 😁</h2>
 
 - 👋 Hi, I’m Carlos Villatoro, I love working on projects that spark my curiosity and are inspired by spontaneous ideas.
-- 🏫 I'm an FAU student, Class of 2025 - Go Owls 🦉
+- 🏫 I'm an FAU student, Class of 2025 - Go Owls 🦉 School Github: 
 - 👀 I’m interested in progamming 💻, listening to music 🎹, cooking 👨‍🍳, playing music 🎸, reading 📚
-- 💻 Favorite projects React: [CourseRank](https://github.com/thenameisCharlie/CourseRank.git)  
+- 💻 Favorite projects React: [CourseRank](https://github.com/thenameisCharlie/CourseRank.git)
 ___
 <h3>Some Tools I Have Used and Learned</h3>
 <p align="left">
